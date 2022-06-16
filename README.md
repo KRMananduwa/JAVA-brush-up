@@ -28,3 +28,8 @@ The path is required to be set for using tools such as javac and java. Follow th
 | Variable             | It should start with a lowercase letter such as id, name. It should not start with the special characters like & (ampersand), $ (dollar), _ (underscore). If the name contains multiple words, start it with the lowercase letter followed by an uppercase letter such as firstName, lastName. | int **id**;                 |
 | Package              | It should be a lowercase letter such as java, lang. If the name contains multiple words, it should be separated by dots (.) such as java.util, java.lang.                                                                                                                                      | package **com.javalearn**; |
 | Constant             | It should be in uppercase letters                                                                                                                                                                                                                                                              | **MIN_AGE** = 18;           |
+
+
+## how Java works?
+
+If we  want to make a software. we have to create a source file. we need to compile it and create a byte code. For that we require a compiler. But then question arise what we'll do with this byte code. Java is platform that independent and also we require a platform where we can run this. To run this bytecode we required a virtual  machine. The virtual machine will only work with Java. JVM is a Java Virtual Machine and once we've got that JVM we will get our object and then we can run our code. So that's how Java works.
