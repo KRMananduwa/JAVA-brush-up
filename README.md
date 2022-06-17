@@ -43,3 +43,7 @@ An integrated development environment is a software application that provides co
 ### Java Package
 
 A Java package organizes Java classes into namespaces, providing a unique namespace for each type it contains. Classes in the same package can access each other's package-private and protected members. Package in java can be categorized in two form, built-in package and user-defined package. There are many built-in packages such as java, lang, awt, javax, swing, net, io, util, sql etc.
+
+## Concatenate and printf
+
+Concatenation in the Java programming language is the operation of joining two strings together. You can join strings using either the addition (+) operator or the String's concat() method. [Please view that file by clicking here.](https://github.com/KRMananduwa/JAVA-brush-up/blob/main/4-NetBeansPrjcts/src/concatAndPrintf/ConcatAndPrintf.java)
